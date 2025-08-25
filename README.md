@@ -107,6 +107,14 @@ Atualmente estou no 3º ano do ensino médio no CEPEF (Centro de Educação Prof
     style="padding-right: 7px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"
 />
+<img 
+    title="GitHub"
+    aligh="left" 
+    alt="GitHub" 
+    width="30px" 
+    style="padding-right: 7px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
+/>
 
 <br/>
 
