@@ -6,12 +6,13 @@ Atualmente estou no 3º ano do ensino médio no CEPEF (Centro de Educação Prof
 
 <p align="left">
     <a href="https://github.com/MariaH-Toledo?tab=followers">
-        <img alt="followers" title="Me Siga no GitHub" 
-             src="https://custom-icon-badges.demolab.com/github/followers/MariaH-Toledo?color=7953f5&labelColor=6c42f5&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/>
+        <img alt="followers" title="Me Siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/MariaH-Toledo?color=7953f5&labelColor=6c42f5&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/>
     </a>
     <a href="https://github.com/MariaH-Toledo?tab=repositories&sort=stargazers">
-        <img alt="total stars" title="Total de Estrelas GitHub" 
-             src="https://custom-icon-badges.demolab.com/github/stars/MariaH-Toledo?color=c7ab36&labelColor=c9a302&style=for-the-badge&logo=star&logoColor=white&label=Estrelas"/>
+        <img alt="total stars" title="Total de Estrelas GitHub" src="https://custom-icon-badges.demolab.com/github/stars/MariaH-Toledo?color=c7ae46&labelColor=c9a302&style=for-the-badge&logo=star&logoColor=white&label=Estrelas"/>
+    </a>
+    <a href="https://www.instagram.com/mariah__toledo/" target="_blank">
+        <img alt="Instagram followers" title="Seguidores no Instagram" src="https://img.shields.io/badge/Instagram-266-%23e35973?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" />
     </a>
 </p>
 
@@ -107,14 +108,6 @@ Atualmente estou no 3º ano do ensino médio no CEPEF (Centro de Educação Prof
     style="padding-right: 7px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"
 />
-<img 
-    title="GitHub"
-    aligh="left" 
-    alt="GitHub" 
-    width="30px" 
-    style="padding-right: 7px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
-/>
 
 <br/>
 
@@ -124,12 +117,13 @@ Atualmente estou no 3º ano do ensino médio no CEPEF (Centro de Educação Prof
     aligh="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;"
+    style="padding-right: 7px;"
     src="https://github-readme-stats.vercel.app/api?username=MariaH-Toledo&show_icons=true&theme=nightowl&include_all_commits=true&locale=pt-br"
 />
 <img
     aligh="left" 
     alt="GitHub Stats" 
     height="200" 
+    style="padding-right: 7px;" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaH-Toledo&theme=nightowl&layout=compact&custom_title=Tecnologias&lang_count=6"
 />
