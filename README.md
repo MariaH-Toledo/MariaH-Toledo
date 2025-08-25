@@ -116,13 +116,12 @@ Atualmente estou no 3º ano do ensino médio no CEPEF (Centro de Educação Prof
     aligh="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 7px;"
+    style="padding-right: 10px;"
     src="https://github-readme-stats.vercel.app/api?username=MariaH-Toledo&show_icons=true&theme=nightowl&include_all_commits=true&locale=pt-br"
 />
 <img
     aligh="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 7px;" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaH-Toledo&theme=nightowl&layout=compact&custom_title=Tecnologias&lang_count=6"
 />
