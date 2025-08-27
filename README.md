@@ -12,7 +12,7 @@ Atualmente estou no 3º ano do ensino médio no CEPEF (Centro de Educação Prof
         <img alt="total stars" title="Total de Estrelas GitHub" src="https://custom-icon-badges.demolab.com/github/stars/MariaH-Toledo?color=c7ae46&labelColor=c9a302&style=for-the-badge&logo=star&logoColor=white&label=Estrelas"/>
     </a>
     <a href="https://www.instagram.com/mariah__toledo/" target="_blank">
-        <img alt="Instagram followers" title="Seguidores no Instagram" src="https://img.shields.io/badge/Instagram-266-%23e35973?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" />
+        <img alt="Instagram followers" title="Seguidores no Instagram" src="https://img.shields.io/badge/Instagram-%23e35973?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" />
     </a>
 </p>
 
