@@ -2,7 +2,7 @@
 **`Desenvolvedora FullStack`**
 
 Olá, me chamo "[Maria Helena](https://www.instagram.com/mariah__toledo/)", tenho 18 anos e sou de Mato Grosso do Sul.
-Formada no ensino médio do CEPEF (Centro de Educação Profissional Ezequiel Ferreira Lima), onde cursei Técnico em Informática para Internet. Também fiz o curso de Desenvolvimento de Sistemas no Senac Hub Academy, atualmente curso Ciência da Computação na UFMS. Gosto muito de programção e estou sempre em busca de aprender coisas novas e aprimorar minhas habilidades na área de tecnologia.
+Formada no ensino médio do CEPEF (Centro de Educação Profissional Ezequiel Ferreira Lima), onde cursei Técnico em Informática para Internet. Também fiz o curso de Desenvolvimento de Sistemas no Senac Hub Academy. Atualmente curso Ciência da Computação na UFMS. Gosto muito de programção e estou sempre em busca de aprender coisas novas e aprimorar minhas habilidades na área de tecnologia.
 
 <!-- <p align="left">
     <a href="https://github.com/MariaH-Toledo?tab=followers">
